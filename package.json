@@ -1,0 +1,10 @@
+{
+  "name": "action-test",
+  "version": "1.0.0",
+  "repository": "git@github.com:jeffy-g/action-test.git",
+  "author": "jeffy-g <hirotom1107@gmail.com>",
+  "license": "MIT",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  }
+}
